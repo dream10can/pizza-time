@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600&family=Noto+Kufi+Arabic:wght@400;500&display=swap");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .image-decoration {
+    @apply w-24 h-24 absolute top-8 right-2 lg:w-40 lg:h-40  lg:right-60;
+  }
+
+  .single-garlic {
+    @apply w-24 h-24 absolute top-52 left-0 lg:w-48 lg:h-48 lg:top-32;
+  }
+
+  .leav-decoration {
+    @apply w-24 h-24 absolute top-80 right-5 lg:w-48 lg:h-48;
+  }
 }

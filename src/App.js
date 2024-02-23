@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import NavBar from "./components/navbar";
+
+import Hero from "./components/hero";
+import SpecialDish from "./components/best-dish";
+import Heading from "./components/heading";
+import QuestionList from "./components/question-list";
+import Menu from "./components/menu";
+import Footer from "./components/footer";
+
+const heading = "الأسأله المتكررة";
+
+const menu = "المنيو";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <NavBar />
+      <Hero />
+      <SpecialDish />
+      <Heading heading={menu} />
+      <Menu />
+      <Heading heading={heading} />
+      <QuestionList />
+      <Footer />
     </div>
   );
 }
