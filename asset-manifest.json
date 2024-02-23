@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d0c266d.css",
-    "main.js": "/static/js/main.ab9aab54.js",
-    "static/media/paporoni pizza-min.png": "/static/media/paporoni pizza-min.750f889867f70c701ae3.png",
-    "static/media/pizza resturant.png": "/static/media/pizza resturant.1a4fd0f6324454098ee0.png",
-    "static/media/checken_pizza.png": "/static/media/checken_pizza.07e183634bbbcd949edf.png",
-    "static/media/beefPizza.png": "/static/media/beefPizza.456d9eda605cec6fecf7.png",
-    "static/media/veg-pizza.png": "/static/media/veg-pizza.11f068ae8ffe8a895f8f.png",
-    "static/media/checken-pizza-3.png": "/static/media/checken-pizza-3.855b94eb1fa2b3b9f0b1.png",
-    "static/media/garlic.png": "/static/media/garlic.df6801fc6735aef17e2f.png",
-    "static/media/pizza make.svg": "/static/media/pizza make.8016f8628483ae2d5405d04db36917fa.svg",
-    "static/media/pizza time logo.png": "/static/media/pizza time logo.9977ec908c64f13664ed.png",
-    "static/media/leav.png": "/static/media/leav.f30e210d7adab78c3176.png",
-    "index.html": "/index.html",
-    "main.0d0c266d.css.map": "/static/css/main.0d0c266d.css.map",
-    "main.ab9aab54.js.map": "/static/js/main.ab9aab54.js.map"
+    "main.css": "/pizza-time/static/css/main.0d0c266d.css",
+    "main.js": "/pizza-time/static/js/main.d3deca3b.js",
+    "static/media/paporoni pizza-min.png": "/pizza-time/static/media/paporoni pizza-min.750f889867f70c701ae3.png",
+    "static/media/pizza resturant.png": "/pizza-time/static/media/pizza resturant.1a4fd0f6324454098ee0.png",
+    "static/media/checken_pizza.png": "/pizza-time/static/media/checken_pizza.07e183634bbbcd949edf.png",
+    "static/media/beefPizza.png": "/pizza-time/static/media/beefPizza.456d9eda605cec6fecf7.png",
+    "static/media/veg-pizza.png": "/pizza-time/static/media/veg-pizza.11f068ae8ffe8a895f8f.png",
+    "static/media/checken-pizza-3.png": "/pizza-time/static/media/checken-pizza-3.855b94eb1fa2b3b9f0b1.png",
+    "static/media/garlic.png": "/pizza-time/static/media/garlic.df6801fc6735aef17e2f.png",
+    "static/media/pizza make.svg": "/pizza-time/static/media/pizza make.8016f8628483ae2d5405d04db36917fa.svg",
+    "static/media/pizza time logo.png": "/pizza-time/static/media/pizza time logo.9977ec908c64f13664ed.png",
+    "static/media/leav.png": "/pizza-time/static/media/leav.f30e210d7adab78c3176.png",
+    "index.html": "/pizza-time/index.html",
+    "main.0d0c266d.css.map": "/pizza-time/static/css/main.0d0c266d.css.map",
+    "main.d3deca3b.js.map": "/pizza-time/static/js/main.d3deca3b.js.map"
   },
   "entrypoints": [
     "static/css/main.0d0c266d.css",
-    "static/js/main.ab9aab54.js"
+    "static/js/main.d3deca3b.js"
   ]
 }
